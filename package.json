@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dcmarin91/parImpar/issues"
   },
-  "homepage": "https://github.com/dcmarin91/parImpar#readme"
+  "homepage": "https://github.com/dcmarin91/parImpar#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
